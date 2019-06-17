@@ -1,0 +1,20 @@
+{
+  "name": "test_1inbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^4.0.30",
+    "fs": "0.0.1-security",
+    "ganache-cli": "^6.4.4",
+    "mocha": "^6.1.4",
+    "path": "^0.12.7",
+    "solc": "^0.4.25"
+  }
+}
